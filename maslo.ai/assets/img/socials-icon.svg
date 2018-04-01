@@ -1,0 +1,14 @@
+
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000012">
+        <g id="main-screen-1440-/-default" transform="translate(-36.000000, -760.000000)" fill-rule="nonzero" stroke="#52379E">
+            <g id="social" transform="translate(36.000000, 760.000000)">
+                <circle id="Oval" cx="3" cy="8" r="2.5"></circle>
+                <circle id="Oval-Copy" cx="12" cy="3" r="2.5"></circle>
+                <circle id="Oval-Copy-2" cx="12" cy="13" r="2.5"></circle>
+                <path d="M5.45686417,6.53665526 L9.39949832,4.26975511" id="Path-2"></path>
+                <path d="M5.55754322,11.5 L9.5,9.43066406" id="Path-2-Copy" transform="translate(7.528772, 10.465332) scale(1, -1) translate(-7.528772, -10.465332) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

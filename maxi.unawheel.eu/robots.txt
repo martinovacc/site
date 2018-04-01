@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page24150357.html
+Disallow: /header
+Disallow: /page24150152.html
+Disallow: /contacts
+Disallow: /page24150373.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: http://maxi.unawheel.eu/sitemap.xml
+Host: maxi.unawheel.eu
